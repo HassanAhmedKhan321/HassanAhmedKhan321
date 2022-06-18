@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HassanAhmedKhan321
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
